@@ -1,0 +1,15 @@
+body {
+  height: 5000px;
+}
+.nicescroll-cursors {
+  width: 12px !important;
+
+  background-color: rgb(46, 204, 113) !important;
+}
+#ascrail2000 {
+  background: rgb(221, 221, 221) !important;
+  width: 12px !important;
+}
+nav ul li.active {
+  background-color: rgba(0, 0, 0, 0.5);
+}
